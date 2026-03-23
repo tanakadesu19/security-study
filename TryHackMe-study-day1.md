@@ -12,7 +12,7 @@ Offensive Security Intro
 dirb : Webサイトの「隠しページ」を探すツール
 
 例
-dirb `http://example.com`
+`dirb http://example.com`
 →
-+ `http://example.com/admin`
-+ `http://example.com/login`
+`+` `http://example.com/admin`
+`+` `http://example.com/login`
