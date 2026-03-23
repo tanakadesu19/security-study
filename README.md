@@ -1,46 +1,59 @@
-# Security Study Log
+###TryHackMe-study-day1
 
-## 概要
-セキュリティ学習の記録用リポジトリです。
+##やったこと
+Pre Security - Section 1 - Introduction to Cyber Security
+Offensive Security Intro
 
----
+##学んだこと
 
-## 学習内容
+#dirb
+dirb = Webサイトの「隠しページ」を探すツール
+例
+dirb http://example.com
+→
++ http://example.com/admin
++ http://example.com/login
 
-### OverTheWire（Bandit）
-- Level〜20クリア
-
-#### 学んだこと
-- ls：ファイル一覧
-- cd：ディレクトリ移動
-- cat：ファイルの中身確認
-- スペースを含むファイルの扱い（" "で囲む）
-
----
-
-### Wireshark
-#### 学んだこと
-- 通信のキャプチャ方法
-- DNSの確認（ドメイン → IP）
-- TCPの3-way handshake（SYN, SYN-ACK, ACK）
-
----
-
-### TryHackMe
-#### Day1
-- Introduction to Cyber Security
-
-#### 学んだこと
-- CIA（Confidentiality, Integrity, Availability）
-
----
-
-## 今後やること
-- TryHackMe継続
-- Webセキュリティ学習
-- CTF参加
-
----
-
-## メモ
-学習中に気づいたことを随時追加予定
+##覚えた英単語
+weaknesses　弱点
+legal　法的な
+environment　環境
+ethical　倫理的な
+operate　操作する
+term　用語
+describes　説明する
+simulating　シミュレートする
+vulnerabilities　脆弱性
+press 押す
+below　下に
+launch　開始する
+shown　表示される
+portion　部分
+above　上の
+interact　やり取り
+common　一般的な　共通の
+make　(間違いなどを)犯す
+leave A B  AをBの状態のままにする
+accessible　アクセス可能な
+run　実行する
+inside　内部
+output　出力結果
+admin　管理者
+naviate　ナビゲートする
+discover　発見する
+search bar　検索バー
+located　位置した
+within　～の中で
+the following　次の
+popup　飛び出す　現れる
+turns positive　プラスになる
+your balance　あなたの残高
+appear　現れる
+securing　確保する
+responsible　責任がある
+detecting　検出する　元detect
+investigating　調査する　
+responding　対応する　応答する
+occurs　発生する
+monitor　監視する
+instead　その代わりに
