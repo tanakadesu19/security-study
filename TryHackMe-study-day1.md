@@ -13,8 +13,6 @@ dirb : Webサイトの「隠しページ」を探すツール
 
 例
 dirb http://example.com
-
 →
-
 + http://example.com/admin
 + http://example.com/login
